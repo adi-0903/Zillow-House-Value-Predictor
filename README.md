@@ -47,7 +47,4 @@ http://xgboost.readthedocs.io/en/latest/build.html
 4. Run LSTM Network.ipynb
 5. Run Multivariate LSTM Network.ipynb
 
-Licensed under the [MIT License](LICENSE)
-
-**This MIT copyright license is only for the Linear Regression using Python**
 
